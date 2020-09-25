@@ -29,3 +29,5 @@ git config --global core.excludesfile '~/.gitignore_global'
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+public/uploads/
